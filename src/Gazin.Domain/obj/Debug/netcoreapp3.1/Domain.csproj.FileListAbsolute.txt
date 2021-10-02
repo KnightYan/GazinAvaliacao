@@ -1,9 +1,0 @@
-Y:\Projetos\Gazin\src\Gazin.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
-Y:\Projetos\Gazin\src\Gazin.Domain\bin\Debug\netcoreapp3.1\Domain.dll
-Y:\Projetos\Gazin\src\Gazin.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.dll
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
-Y:\Projetos\Gazin\src\Gazin.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
