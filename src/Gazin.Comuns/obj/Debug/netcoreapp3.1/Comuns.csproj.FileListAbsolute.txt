@@ -1,0 +1,9 @@
+Y:\Projetos\Gazin\src\Gazin.Comuns\bin\Debug\netcoreapp3.1\Comuns.deps.json
+Y:\Projetos\Gazin\src\Gazin.Comuns\bin\Debug\netcoreapp3.1\Comuns.dll
+Y:\Projetos\Gazin\src\Gazin.Comuns\bin\Debug\netcoreapp3.1\Comuns.pdb
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.csproj.AssemblyReference.cache
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.AssemblyInfoInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.AssemblyInfo.cs
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.csproj.CoreCompileInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.dll
+Y:\Projetos\Gazin\src\Gazin.Comuns\obj\Debug\netcoreapp3.1\Comuns.pdb

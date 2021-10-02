@@ -1,0 +1,16 @@
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Service.dll
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Service.pdb
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Comuns.dll
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Data.dll
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Domain.dll
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Data.pdb
+Y:\Projetos\Gazin\src\Gazin.Service\bin\Debug\netcoreapp3.1\Comuns.pdb
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.dll
+Y:\Projetos\Gazin\src\Gazin.Service\obj\Debug\netcoreapp3.1\Service.pdb

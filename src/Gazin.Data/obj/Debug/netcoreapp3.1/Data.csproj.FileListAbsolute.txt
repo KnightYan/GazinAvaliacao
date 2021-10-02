@@ -1,0 +1,17 @@
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Data.dll
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Data.pdb
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Comuns.dll
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Domain.dll
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+Y:\Projetos\Gazin\src\Gazin.Data\bin\Debug\netcoreapp3.1\Comuns.pdb
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.dll
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.pdb
+Y:\Projetos\Gazin\src\Gazin.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

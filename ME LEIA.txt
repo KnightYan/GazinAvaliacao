@@ -1,0 +1,10 @@
+O Projeto foi desenvolvido utilizando a ferramenta Visual Code;
+Foi utilizado a modelagem de DDD para implementação do mesmo;
+
+A API foi projetada para estar utilizando um banco de dados criado localmente.
+Para a criação do banco:
+    1) Abrir o terminal no projeto "Gazin.Data";
+    2) Rodar o comando "dotnet ef database update" para a geração do banco de dados; 
+    3) O Banco de dados é gerado no caminho "C:\Users\Usuario"
+
+
